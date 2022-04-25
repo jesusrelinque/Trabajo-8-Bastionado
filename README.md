@@ -4,8 +4,8 @@
 		<tr>
 			<td>
 </td>
-			<center><td><b>Zabbix</b></td></center>
-			<td><b><center>Nagios</center></b></td>
+			<center><td style="text-align:center"><b>Zabbix</b></td></center>
+			<td style="text-align:center"><b>Nagios</b></td>
 		</tr>
 		<tr>
 			<td>Gestión y configuración de usuario</td>
