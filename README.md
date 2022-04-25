@@ -4,7 +4,7 @@
 		<tr>
 			<td>
 </td>
-			<td><b><center>Zabbix</center></b></td>
+			<center><td><b>Zabbix</b></td></center>
 			<td><b><center>Nagios</center></b></td>
 		</tr>
 		<tr>
