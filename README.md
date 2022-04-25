@@ -54,3 +54,14 @@
 <img src="images/nagios-agente.png">
 <h3>Equipos</h3>
 <img src="images/nagios-equipos.png">
+<h2>Zabbix</h2>
+<h3>Instalación</h3>
+<img src="images/wget.png">
+<img src="images/dpkg.png">
+<img src="images/install.png">
+<img src="images/mysql.png">
+<img src="images/secure_installation.png">
+<h3>Configuración Agente</h3>
+<img src="images/zabbix.png">
+<h3>Equipos</h3>
+<img src="images/zabbix-graph.png">
