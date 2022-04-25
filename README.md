@@ -13,9 +13,35 @@
 			<td></td>
 		</tr>
 		<tr>
-			<td></td>
+			<td>Plugins y monitorización</td>
 			<td></td>
 			<td></td>
 		</tr>
+		<tr>
+			<td> Comunidad de usuarios</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Generación de Informes y Paneles Visuales</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Agentes</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Escalabilidad</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Entornos de red</td>
+			<td></td>
+			<td></td>
+		</tr>
+		
 	</tbody>
 </table>
