@@ -49,4 +49,4 @@
 <h1><b>Capturas</b></h1>
 <h2>Nagios</h2>
 <h3>Instalación</h3>
-
+<img src="images/prueba.jpg">
