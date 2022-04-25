@@ -8,7 +8,7 @@
 			<td>Nagios</td>
 		</tr>
 		<tr>
-			<td></td>
+			<td>Gestión y configuración de usuario</td>
 			<td></td>
 			<td></td>
 		</tr>
