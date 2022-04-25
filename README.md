@@ -51,6 +51,6 @@
 <h3>Instalación</h3>
 <img src="images/nagios-inst.png">
 <h3>Configuración Agente</h3>
-<img src="images/nagios-agentes.png">
+<img src="images/nagios-agente.png">
 <h3>Equipos</h3>
 <img src="images/nagios-equipos.png">
