@@ -45,3 +45,7 @@
 	</tbody>
 
 </table>
+
+<h1><b>Capturas</b></h1>
+<h2>Nagios</h2>
+
