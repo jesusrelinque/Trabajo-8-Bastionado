@@ -2,10 +2,10 @@
 <table>
 	<tbody>
 		<tr>
-			<td>limpio
+			<td>
 </td>
-			<td>Zabbix</td>
-			<td>Nagios</td>
+			<td><b>Zabbix</b></td>
+			<td><b>Nagios</b></td>
 		</tr>
 		<tr>
 			<td>Gestión y configuración de usuario</td>
